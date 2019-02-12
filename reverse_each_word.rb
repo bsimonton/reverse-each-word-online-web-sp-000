@@ -10,7 +10,7 @@ def reverse_each_word(string)
     
   end
   
-  rev_array
+  rev_array.join(" ")
   
   
   
